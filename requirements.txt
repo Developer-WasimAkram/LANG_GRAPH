@@ -4,4 +4,4 @@ langchain_openai
 langchain_groq
 dotenv
 ipykernel
-langchain_chatgroq
+langchain_groq
